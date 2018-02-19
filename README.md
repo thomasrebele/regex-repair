@@ -23,6 +23,7 @@ Datasets can be found at (https://www.thomasrebele.org/projects/regex-repair/)
 ## License
 
 This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE (AGPL) v3, see LICENSE for more details.
+If you need a different license, please contact us.
 
 # References
 

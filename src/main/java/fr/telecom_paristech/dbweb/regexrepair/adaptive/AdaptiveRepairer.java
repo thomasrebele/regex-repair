@@ -552,10 +552,10 @@ public class AdaptiveRepairer implements RegexRepairer {
             }
           }
 
-          if (best.getChildren().size() == 0) {
+          addToAlt(best, Expr.textExpr(gap.toAdd), altToNewExpr);
+          if (best.getChildren().size() == 1) {
             addToAlt(best, new Conc(), altToNewExpr);
           }
-          addToAlt(best, Expr.textExpr(gap.toAdd), altToNewExpr);
 
           Alt tmp = best;
           gap.primaryAlts.forEach(a -> {

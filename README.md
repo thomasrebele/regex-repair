@@ -29,5 +29,5 @@ If you need a different license, please contact us.
 
 [1] Rebele, T., Tzompanaki, K., Suchanek, F.: Visualizing the addition of missing words to regular expressions. In: International Semantic Web Conference, ISWC (2017)
 
-[2] Tebele, T., Tzompanaki, K., Suchanek, F.: Adding Missing Words to Regular Expressions. In: Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD (2018)
+[2] Rebele, T., Tzompanaki, K., Suchanek, F.: Adding Missing Words to Regular Expressions. In: Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD (2018)
 
